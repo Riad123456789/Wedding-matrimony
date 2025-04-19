@@ -53,7 +53,7 @@ const Banner2 = () => {
             </div>
           </div>
         </SwiperSlide>
-        {/* <SwiperSlide>
+        <SwiperSlide>
           <div className='test2 h-full w-full '>
             <div className='w-full h-full  bg-gradient-to-t from-black to-black opacity-60 '></div>
           </div>
@@ -84,7 +84,7 @@ const Banner2 = () => {
               </div>
             </div>
           </div>
-        </SwiperSlide> */}
+        </SwiperSlide>
 
     
       </Swiper>
