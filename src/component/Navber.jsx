@@ -133,7 +133,7 @@ const Navber = ({ children }) => {
               </p>
             </div>
 
-            <div className=' flex items-center justify-around gap-10 text-white text-xs font-semibold '>
+            <div className=' flex items-center justify-between gap-5 px-7 text-white text-xs font-semibold '>
               <div className=' p-2 md:flex items-center px-1 gap-1 hidden'>
                 <MdOutlineEmail size={15}></MdOutlineEmail>
                 riad80717@gmail.com
